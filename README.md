@@ -8,4 +8,5 @@ Find the right markets and increase your lead generation
 
 # Screenshot and Link to Deployed Application
 ![Screenshot](https://imgur.com/kNZbpNi)
-[Link to Deployed Application] (https://dlexd.github.io/Horiseon-Social-Solution-Services/)
+
+[Link to Deployed Application](https://dlexd.github.io/Horiseon-Social-Solution-Services/)
